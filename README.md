@@ -28,6 +28,8 @@ https://github.com/MasoudAbedi/smart-task-distribution/blob/master/MLTD2020.cs
 Machine Learning Based Task Distribution in Heterogeneous Fog-Cloud Environments, SoftCom2020, Hvar, Croatia, 2020.
 FCSTD: Fog-Cloud Smart Task Distribution by Exploiting the Artificial Neural Networks, Networks of the Future (NoF2020), Bordeaux, France, 2020.
 
+![uni-logo](https://user-images.githubusercontent.com/64810541/84444143-578e0b80-ac41-11ea-98d2-5212e1669cbd.png)
+
 
 
 
