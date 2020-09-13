@@ -1,6 +1,9 @@
 # Smart-Task-Distribution
 In this page, we present the source codes of the following papers:
 
+Machine Learning Based Task Distribution in Heterogeneous Fog-Cloud Environments.
+FCSTD: Fog-Cloud Smart Task Distribution by Exploiting the Artificial Neural Networks.
+
 
 ## Case Study
 Our  case  study is  based  on  a delay-sensitive application produced   by   “Rayan   Tahlil   Sepahan”   Company.   This application  is specially designed to analyze the effect of different  working  conditions  on body of  workers who  workin  environments  with  high  amounts  of  heat  stress  such  as iron and steel industry. Using the mentioned application, we can  estimate  the  sweat  rate,  change  of  water  level  and  the temperature   of   skin,  core,   vein,  and   artery   in   different segments  of  body  by  using  WBSNs  and  environmental sensors.  As  a  result,  workers  will  be  informed  about  their health status and specific  working  schedules for any worker could  be  prepared, aiming to  keep them safe  and  healthy in their working environment.
@@ -17,10 +20,10 @@ https://github.com/MasoudAbedi/smart-task-distribution/blob/master/DataSet.zip
 The source code of FCSTD is available:
 https://github.com/MasoudAbedi/smart-task-distribution/blob/master/FCSTD2020.cs
 
-and MLTD can be found:
+and the source code of MLTD can be found:
 https://github.com/MasoudAbedi/smart-task-distribution/blob/master/MLTD2020.cs
 
-## Refrences
+## References
 
 Machine Learning Based Task Distribution in Heterogeneous Fog-Cloud Environments, SoftCom2020, Hvar, Croatia, 2020.
 FCSTD: Fog-Cloud Smart Task Distribution by Exploiting the Artificial Neural Networks, Networks of the Future (NoF2020), Bordeaux, France, 2020.
