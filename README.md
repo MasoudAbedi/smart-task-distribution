@@ -14,6 +14,18 @@ https://github.com/MasoudAbedi/smart-task-distribution/blob/master/DataSet.zip
 
 ## The Source Codes
 
+The source code of FCSTD is available:
+https://github.com/MasoudAbedi/smart-task-distribution/blob/master/FCSTD2020.cs
+
+and MLTD can be found:
+https://github.com/MasoudAbedi/smart-task-distribution/blob/master/MLTD2020.cs
+
+## Refrences
+
+Machine Learning Based Task Distribution in Heterogeneous Fog-Cloud Environments, SoftCom2020, Hvar, Croatia, 2020.
+FCSTD: Fog-Cloud Smart Task Distribution by Exploiting the Artificial Neural Networks, Networks of the Future (NoF2020), Bordeaux, France, 2020.
+
+
 
 
 
