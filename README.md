@@ -14,11 +14,8 @@ We developed a [training algorithms](https://github.com/MasoudAbedi/smart-task-d
 
 ## The Source Codes
 
-The source code of FCSTD is available:
-https://github.com/MasoudAbedi/smart-task-distribution/blob/master/FCSTD2020.cs
+The source code of [FCSTD](https://github.com/MasoudAbedi/smart-task-distribution/blob/master/FCSTD2020.cs) and [MLTD](https://github.com/MasoudAbedi/smart-task-distribution/blob/master/MLTD2020.cs) have been also uploaded on github.
 
-and the source code of MLTD can be found:
-https://github.com/MasoudAbedi/smart-task-distribution/blob/master/MLTD2020.cs
 
 ## References
 
