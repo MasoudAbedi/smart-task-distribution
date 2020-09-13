@@ -1,4 +1,4 @@
-# smart-task-distribution
+# Smart-Task-Distribution
 In this page, we present the source codes of the following papers:
 
 
